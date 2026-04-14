@@ -1,3 +1,9 @@
+// Problem: Two Sum
+// Approach: HashMap for O(n) solution
+// Time Complexity: O(n)
+// Space Complexity: O(n)
+
+
 import java.util.*;
 
 public class TwoSum {
