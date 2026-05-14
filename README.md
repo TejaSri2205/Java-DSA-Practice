@@ -5,7 +5,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Topics Covered
 - Arrays
 - Strings
-- Linked Lists (coming soon)
+- Linked Lists 
 - Trees (coming soon)
 - Graphs (coming soon)
 - Stacks (coming soon)
