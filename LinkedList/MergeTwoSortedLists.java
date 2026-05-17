@@ -23,7 +23,7 @@ class ListNode {
     }
 }
 
-public class Main {
+public class MergeTwoSortedLists {
 
     // Better Approach - Iterative Method
     public static ListNode mergeTwoLists(ListNode list1, ListNode list2) {
