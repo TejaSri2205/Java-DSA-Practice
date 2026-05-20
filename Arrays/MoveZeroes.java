@@ -13,7 +13,7 @@ Downside: Overwrites values (extra writes)
 
 //  /*
 
-public class MoveZeroesBetter {
+public class MoveZeroes {
 
     public static void moveZeroes(int[] nums) {
         int index = 0; // position to place next non-zero
@@ -60,7 +60,7 @@ Space: O(1)
 
 //  /*
 
-public class MoveZeroesOptimal {
+public class MoveZeroes {
 
     public static void moveZeroes(int[] nums) {
         int j = 0; // position for next non-zero element
