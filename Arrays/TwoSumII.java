@@ -5,7 +5,7 @@
 
 import java.util.*;
 
-public class Two_Sum_II {
+public class TwoSumII {
     public static int[] twoSum2(int[] numbers, int target) {
         int left = 0;
         int right = numbers.length - 1;
