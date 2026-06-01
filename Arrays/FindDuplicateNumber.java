@@ -3,6 +3,9 @@
 //Time complexity : O(n)
 //Space complexity : O(1)
 
+//Link :
+//https://leetcode.com/problems/find-the-duplicate-number/description/
+
 public class FindDuplicateNumber {
 
     public static int findDuplicate(int[] nums) {
