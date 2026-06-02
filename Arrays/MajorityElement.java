@@ -3,6 +3,9 @@
 //Time complexity : O(n)
 //Space complexity : O(1)
 
+//Link :
+// https://leetcode.com/problems/majority-element/description/
+
 import java.util.Scanner;
 
 public class MajorityElement {
