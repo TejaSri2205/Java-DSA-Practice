@@ -3,6 +3,9 @@
 //Time Complexity: O(n log n) → sorting dominates
 //Space Complexity: O(n) → result list
 
+// Link :
+// https://leetcode.com/problems/merge-intervals/description/
+
 import java.util.*;
 
 public class MergeIntervals {
