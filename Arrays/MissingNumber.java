@@ -1,5 +1,8 @@
 //problem : Missing number
 
+// Link :
+// https://leetcode.com/problems/missing-number/description/
+
 /* 
 Approach 1: Sum Formula
 Idea :
