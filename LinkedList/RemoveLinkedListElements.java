@@ -3,6 +3,9 @@
 //Time Complexity : O(n)
 //Space Complexity : O(1)
 
+// Link :
+// https://leetcode.com/problems/remove-linked-list-elements/description/
+
 /*
 Idea
   Traverse the linked list and directly remove nodes:
