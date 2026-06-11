@@ -1,6 +1,9 @@
-//Propblem : SymmetricTree
+//Propblem : Symmetric Tree
 //Time Complexity : O(n) 
 //Space Complexity : O(h) → recursion stack (h = height of tree)
+
+// Link :
+// https://leetcode.com/problems/symmetric-tree/description/
 
 /*
 Idea
